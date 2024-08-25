@@ -1,0 +1,42 @@
+body{
+    font-family: arial;
+    background-color:#0C5DB3;
+    color:#F57534;
+    text-align: center;
+}
+
+#elements{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+table{
+    border-width:5px;
+    border-style:solid;
+    border-color:#000033;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    height:40px;
+}
+
+tr{
+    text-align: center;
+}
+
+thead{
+    background-color:#F57534;
+    color:#D8ECFF;
+    height:50px;
+    text-size-adjust: 15px
+}
+
+.even{
+    background-color:#1C1582;
+    color:#D8ECFF;
+}
